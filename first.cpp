@@ -4,5 +4,6 @@ using namespace std;
 int main()
 {
     cout<<"amit";
+    cout<<"Checking";
     return 0;
 }
