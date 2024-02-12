@@ -5,5 +5,6 @@ int main()
 {
     cout<<"amit";
     cout<<"Checking";
+    cout<<"ajska";
     return 0;
 }
